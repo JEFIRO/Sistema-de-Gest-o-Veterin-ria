@@ -3,6 +3,50 @@
 
 ---
 
+## Perguntas e Respostas - Definição do Projeto
+
+### Sobre o público-alvo
+**P: Qual seria o usuário principal deste sistema?**
+R: Veterinários, clínicas e tutores
+
+### Sobre o tipo de animal
+**P: O foco seria em quais tipos de animais?**
+R: Animais domésticos (cães e gatos)
+
+### Sobre as funcionalidades
+**P: Quais aspectos do bem-estar você quer monitorar?**
+R: Saúde/veterinária e vacinação
+
+### Sobre o diferencial
+**P: Você imagina alguma tecnologia específica sendo integrada?**
+R: Ainda não temos um diferencial definido
+
+### Sobre o contexto
+**P: Esse sistema seria para uso institucional ou individual?**
+R: Para ambos - o cliente poderá ver as vacinas e solicitar consultas e o veterinário fazer a gestão de ambos
+
+### Sobre o fluxo de trabalho
+**P: O tutor se cadastraria diretamente no sistema ou seria cadastrado pela clínica?**
+R: Cadastrado pela clínica
+
+### Sobre o histórico médico
+**P: Você pretende ter um prontuário eletrônico completo ou o foco principal seria vacinação e agendamento?**
+R: O foco seria na vacinação e agendamento
+
+### Sobre a integração
+**P: O sistema seria exclusivo de uma clínica ou permitiria histórico unificado?**
+R: O sistema seria exclusivo de uma clínica, mas estilo SaaS (cada clínica tem sua instância independente)
+
+### Sobre notificações
+**P: Pensou em alertas automáticos para o tutor?**
+R: Sim
+
+### Sobre diferenciais escolhidos
+**P: Quais dessas ideias fazem sentido para o projeto?**
+R: Dashboard para o veterinário ver estatísticas da clínica (vacinas aplicadas, consultas pendentes, etc.) e integração com laboratórios para receber resultados de exames direto no sistema
+
+---
+
 ## Resumo do Projeto
 
 **Tipo:** Sistema SaaS para Clínicas Veterinárias
